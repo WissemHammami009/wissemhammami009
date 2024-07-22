@@ -45,7 +45,7 @@ Here are some of my notable projects:
 - **Languages**: Python, JavaScript, PHP, SQL
 - **Frameworks & Tools**: Node.js, Express.js, Angular, Power BI
 - **Databases**: MongoDB, MySQL, PostgreSQL
-- **Platforms**: Linux, AWS
+- **Platforms**: Linux, AZURE
 
 ## 📫 Contact
 
