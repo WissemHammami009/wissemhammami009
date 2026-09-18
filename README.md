@@ -1,59 +1,159 @@
-# 🎉 Hi, I am Wissem Hammami 🎉
+# Hi, I'm Wissem Hammami 👋
 
-## 👋 About Me
+### Lead Data & Software Engineer | Full-Stack Development | AI & Automation | Data Engineering
 
-Hello! I'm a passionate and experienced **MEAN Stack Developer** with a diverse skill set. My expertise spans across various domains including web development, hosting administration, and data analysis.
+I'm a **Lead Data & Software Engineer** with experience designing, developing, securing, and deploying **enterprise applications, data solutions, automation tools, and decision-support systems**.
+
+My work spans the complete development lifecycle — from **architecture and backend development** to **frontend applications, databases, data analytics, security, deployment, and production operations**.
+
+I enjoy building solutions that solve real business problems, automate complex processes, and turn data into useful insights.
+
+---
 
 ## 💻 What I Do
 
-### 🚀 MEAN Stack Development
-I specialize in building dynamic and responsive web applications using the MEAN stack:
-- **MongoDB**: For data storage and management. 📦
-- **Express.js**: To create robust server-side applications. 🖥️
-- **Angular**: For front-end development and seamless user experiences. 🌟
-- **Node.js**: To handle server-side operations efficiently. ⚙️
+### 🚀 Full-Stack & Enterprise Development
 
-### 🖥️ Hosting Administration & Linux Development
-I perform a variety of tasks in hosting administration and Linux development:
-- **Server Management**: Ensuring optimal performance and security. 🔐
-- **Linux Development**: Customizing and managing Linux environments. 🐧
-- **Database Management**: Working with both SQL and NoSQL databases. 📊
+I design and build scalable web applications using modern JavaScript and TypeScript technologies.
 
-### 🧑‍💻 Programming Skills
-I have proficiency in multiple programming languages:
-- **Python**: For scripting, automation, and data analysis. 🐍
-- **JavaScript**: For both front-end and back-end development. ✨
-- **PHP**: For server-side scripting and web development. 🌐
+- **Angular** — Enterprise frontend applications and dashboards
+- **Node.js & Express.js** — REST APIs and backend services
+- **MongoDB** — NoSQL data modeling and application storage
+- **SQL** — Relational database design and development
+- **REST APIs** — Secure integrations and service-oriented architectures
 
-### 📈 Data Analysis
-I'm also skilled in data analysis and visualization:
-- **Python**: Using libraries like Pandas, NumPy, and Matplotlib. 📉
-- **Power BI**: To create interactive and insightful reports. 📊
+My primary web development background is based around the **MEAN stack**, complemented by relational databases and Python services.
 
-## 🛠️ Projects
+---
 
-Here are some of my notable projects:
+### 🤖 AI, Automation & Python
 
-| Project | Description | Languages Used |
-| ------- | ----------- | -------------- |
-| [**Portfolio**](https://github.com/WissemHammami009/portfolio) | A powerful and user-friendly platform designed to help you showcase your work in a professional and visually stunning way. Whether you're a freelancer, our easy-to-use interface and customizable templates allow you to create a personalized portfolio that highlights your unique talents and skills. | MEAN Stack |
-| [**Be Honest**](https://github.com/WissemHammami009/be-honest) | An anonymous messaging app where users can share chat links or publish them publicly. Anyone with the link can respond anonymously, keeping the sender's identity hidden. | PHP |
-| [**Backend URL Shortener**](https://github.com/WissemHammami009/backend-urlshort-app) | A lightweight backend service for URL shortening operations. Ideal for developers looking to integrate URL shortening capabilities into their applications. | JavaScript(Node.js, Express.js) |
-| [**Password Manager**](https://github.com/WissemHammami009/password-manager-source) | Password Manager Storage is a secure and convenient way to store your passwords online. With Password Manager Storage, never have to worry about forgetting them again. Password Manager Storage is easy to use and secure, and it's the perfect way to keep your online accounts safe and secure. | MEAN Stack |
+I use Python and automation technologies to transform repetitive or data-intensive processes into reliable applications and workflows.
 
-## 🛠️ Skills
+Areas I work with include:
 
-- **Languages**: Python, JavaScript, PHP, SQL
-- **Frameworks & Tools**: Node.js, Express.js, Angular, Power BI
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Platforms**: Linux, AZURE
+- Business process automation
+- Data processing pipelines
+- PDF and document processing
+- Excel/CSV automation
+- Desktop utilities and CLI tools
+- API integrations
+- Machine Learning & AI experimentation
+- Reporting automation
 
-## 📫 Contact
+**Python ecosystem:** Pandas, NumPy, Matplotlib and data-processing libraries.
 
-Feel free to reach out to me:
-- **Portfolio**: [Portfolio](https://wissem-hammami.web.app) 🌐
-- **Email**: [hammamiwissem21@gmx.us](mailto:hammamiwissem21@gmx.us) 📧
-- **LinkedIn**: [wissemhammami1](https://www.linkedin.com/in/wissemhammami1/) 🔗
-- **GitHub**: [wissemhammmai009](https://github.com/WissemHammami009) 🖥️
+---
 
-Thanks for visiting my profile! 🙌
+### 📊 Data Engineering & Analytics
+
+I build solutions that transform operational data into useful information for business and management teams.
+
+- Data extraction and transformation
+- Data cleaning and validation
+- KPI design
+- Business intelligence
+- Interactive dashboards
+- Statistical analysis
+- Decision-support solutions
+- Power BI reporting
+
+I work across **Python, SQL, Power BI, MongoDB, MySQL/MariaDB and PostgreSQL** depending on the requirements of the project.
+
+---
+
+### 🔐 Security & Production Operations
+
+I'm particularly interested in building applications that are not only functional, but also **secure and production-ready**.
+
+My experience includes:
+
+- Authentication & authorization
+- JWT-based security
+- Data encryption
+- Password hashing
+- Secure API development
+- Reverse proxy configuration
+- Process management
+- Server administration
+- Database administration
+- Application monitoring
+- Backup strategies
+- Production deployment
+
+I work primarily with **Windows Server, Linux, Nginx, PM2 and Azure** environments.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Python` `JavaScript` `TypeScript` `SQL` `PHP`
+
+### Frontend
+
+`Angular` `HTML` `CSS` `JavaScript` `TypeScript`
+
+### Backend
+
+`Node.js` `Express.js` `REST APIs` `Python`
+
+### Databases
+
+`MongoDB` `MySQL` `MariaDB` `PostgreSQL`
+
+### Data & Analytics
+
+`Pandas` `NumPy` `Matplotlib` `Power BI`
+
+### DevOps & Infrastructure
+
+`Nginx` `PM2` `Windows Server` `Linux` `Azure` `Git`
+
+### Security
+
+`Encryption` `Authentication` `JWT` `Password Hashing` `API Security`
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [**InstaDL**](https://github.com/WissemHammami009/instadl) | Lightweight Python CLI for downloading public Instagram Reels and videos in the highest available quality, with automatic video/audio stream selection and FFmpeg merging. | Python, yt-dlp, FFmpeg |
+| [**Death Counter – Streamer Mode**](https://github.com/WissemHammami009/death-counter-streamer-mode) | Lightweight OBS browser-source death counter with global hotkeys, designed for streamers to update an on-screen counter without interrupting gameplay. | JavaScript, OBS Browser Source |
+| [**Portfolio**](https://github.com/WissemHammami009/portfolio) | Personal portfolio platform for showcasing projects, experience, and technical work. | MEAN Stack |
+| [**Be Honest**](https://github.com/WissemHammami009/be-honest) | Anonymous messaging application allowing users to share public or private links and receive anonymous responses. | PHP |
+| [**Backend URL Shortener**](https://github.com/WissemHammami009/backend-urlshort-app) | Lightweight REST backend for creating and managing shortened URLs. | Node.js, Express.js |
+| [**Password Manager**](https://github.com/WissemHammami009/password-manager-source) | Password management application designed to securely store and manage account credentials. | MEAN Stack |
+
+---
+
+## 🎯 Areas of Interest
+
+I'm particularly interested in projects involving:
+
+- Enterprise Software Engineering
+- Full-Stack Architecture
+- AI & Intelligent Automation
+- Data Engineering
+- Business Intelligence
+- Backend & API Engineering
+- Application Security
+- DevOps & Production Infrastructure
+- Developer Tools & CLI Applications
+- High-Performance Systems
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 **Portfolio:** [wissem-hammami.web.app](https://wissem-hammami.web.app)
+- 💼 **LinkedIn:** [wissemhammami1](https://www.linkedin.com/in/wissemhammami1/)
+- 🖥️ **GitHub:** [WissemHammami009](https://github.com/WissemHammami009)
+- 📧 **Email:** [hammamiwissem21@gmx.us](mailto:hammamiwissem21@gmx.us)
+
+---
+
+### Building secure software, automating complex processes, and turning data into useful solutions.
