@@ -150,8 +150,8 @@ I'm particularly interested in projects involving:
 ## 📫 Connect With Me
 
 - 🌐 **Portfolio:** [wissem-hammami.web.app](https://wissem-hammami.web.app)
-- 💼 **LinkedIn:** [wissemhammami1](https://www.linkedin.com/in/wissemhammami1/)
-- 🖥️ **GitHub:** [WissemHammami009](https://github.com/WissemHammami009)
+- 💼 **LinkedIn:** [wissemhammami1](https://www.linkedin.com/in/wissem-hammami)
+- 🖥️ **GitHub:** [WissemHammami009](https://github.com/WissemHammami009) / [wissem-hammami](https://github.com/wissem-hammami)
 - 📧 **Email:** [hammamiwissem21@gmx.us](mailto:hammamiwissem21@gmx.us)
 
 ---
